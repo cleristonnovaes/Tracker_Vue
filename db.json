@@ -7,6 +7,10 @@
     {
       "nome": "Bytebank",
       "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Composition API - VueJS"
     }
   ],
   "tarefas": [
@@ -27,6 +31,15 @@
         "id": 2
       },
       "id": 2
+    },
+    {
+      "duracaoEmSegundos": 5,
+      "descricao": "Teste 2",
+      "projeto": {
+        "id": 3,
+        "nome": "Composition API - VueJS"
+      },
+      "id": 3
     }
   ]
 }
