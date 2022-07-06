@@ -13,7 +13,7 @@
     {
       "id": 1,
       "duracaoEmSegundos": 120,
-      "descricao": "Configuração do ambiente",
+      "descricao": "Configuração do ambiente 2",
       "projeto": {
         "id": 1,
         "nome": "Alura Tracker 3.0"
@@ -21,7 +21,7 @@
     },
     {
       "duracaoEmSegundos": 4,
-      "descricao": "Refatoração Vuex",
+      "descricao": "Refatoração Vuex  4",
       "projeto": {
         "nome": "Bytebank",
         "id": 2
