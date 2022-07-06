@@ -7,17 +7,13 @@
     {
       "nome": "Bytebank",
       "id": 2
-    },
-    {
-      "id": 3,
-      "nome": "Composition API - VueJS"
     }
   ],
   "tarefas": [
     {
       "id": 1,
       "duracaoEmSegundos": 120,
-      "descricao": "Configuração do ambiente para Vue",
+      "descricao": "Configuração do ambiente",
       "projeto": {
         "id": 1,
         "nome": "Alura Tracker 3.0"
@@ -40,6 +36,15 @@
         "nome": "Composition API - VueJS"
       },
       "id": 3
+    },
+    {
+      "duracaoEmSegundos": 4,
+      "descricao": "Teste 5",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker 3.0"
+      },
+      "id": 4
     }
   ]
 }
